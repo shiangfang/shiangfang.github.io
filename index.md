@@ -43,7 +43,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Motivation
 
 
+[Surprise graphene discovery could unlock secrets of superconductivity](https://www.nature.com/articles/d41586-018-02773-w)
+
+
 ### Generation of Simulation Data: Density Functional Theory Calculations and Wannier Transformations
+
+
 
 
 
