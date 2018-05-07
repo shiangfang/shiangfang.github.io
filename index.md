@@ -58,13 +58,24 @@ Looking forward to the research with these van der Waals layer stacking, there a
 
 
 
-### Generation of Simulation Data: Density Functional Theory Calculations and Wannier Transformations
+### Workstation details:
 
 
 
 
 
-###
+
+### DFT+Wannier method:
+DFT is the state of the art microscopic quantum mechanical simulation for materials, however it is not straightforward to derive the physics picture from the massive information output from running a DFT simulation. Intuitively what Wannier transformation does is to interpret the DFT calculation results in terms of localized Wannier function basis. These can be thought of as the chemical atomic orbitals that participate in the bonding and hybridization of the electrons. The first step is to apply this DFT+Wannier method to various types of two-dimentional 
+
+
+
+### future looking for generalizations
+
+
+
+
+
 
 
 
